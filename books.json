@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "68ee323bf23f0435a3336305",
+    "title": "The Stanislaski Sisters",
+    "author": "Nora Roberts",
+    "genre": "Romance",
+    "published_year": 1997,
+    "price": 400,
+    "in_stock": true,
+    "pages": 512,
+    "publisher": "Silhouette Books"
+  },
+  {
+    "_id": "68ee323bf23f0435a3336306",
+    "title": "The Jester",
+    "author": "James Patterson",
+    "genre": "Fiction",
+    "published_year": 2003,
+    "price": 500,
+    "in_stock": true,
+    "pages": 467,
+    "publisher": "Little,Brown"
+  },
+  {
+    "_id": "68ee323bf23f0435a3336308",
+    "title": "A night in terror tower",
+    "author": "R.L.Stine",
+    "genre": "Horror",
+    "published_year": 1995,
+    "price": 100,
+    "in_stock": false,
+    "pages": 160,
+    "publisher": "Scholastic"
+  },
+  {
+    "_id": "68ee323bf23f0435a3336309",
+    "title": "The Client",
+    "author": "John Grisham",
+    "genre": "Crime",
+    "published_year": 2005,
+    "price": 500,
+    "in_stock": true,
+    "pages": 483,
+    "publisher": "Delta Trade and Paperback"
+  },
+  {
+    "_id": "68ee323bf23f0435a333630a",
+    "title": "Safe Habour",
+    "author": "Danielle Steel",
+    "genre": "Romance",
+    "published_year": 2003,
+    "price": 300,
+    "in_stock": true,
+    "pages": 338,
+    "publisher": "Delacorte Press"
+  },
+  {
+    "_id": "68ee323bf23f0435a333630b",
+    "title": "The Innocent",
+    "author": "David Baldacci",
+    "genre": "Thriller",
+    "published_year": 2012,
+    "price": 500,
+    "in_stock": false,
+    "pages": 422,
+    "publisher": "Grand Central Publishing"
+  },
+  {
+    "_id": "68ee323bf23f0435a333630c",
+    "title": "The 48 laws of power",
+    "author": "Robert Greene",
+    "genre": "Philosophy",
+    "published_year": 2000,
+    "price": 700,
+    "in_stock": true,
+    "pages": 452,
+    "publisher": "Penguin Books"
+  },
+  {
+    "_id": "68ee323bf23f0435a333630d",
+    "title": "Immortal in death",
+    "author": "J.D Robb",
+    "genre": "Crime",
+    "published_year": 2003,
+    "price": 300,
+    "in_stock": false,
+    "pages": 354,
+    "publisher": "Platkus"
+  },
+  {
+    "_id": "68ee323bf23f0435a333630e",
+    "title": "Overkill",
+    "author": "Sandra Brown",
+    "genre": "Suspense",
+    "published_year": 2022,
+    "price": 600,
+    "in_stock": true,
+    "pages": 416,
+    "publisher": "Grand Central Publishing"
+  },
+  {
+    "_id": "68f0fa60f838b94bb8fed57f",
+    "title": "Conspiracy in death",
+    "author": "J.D Robb",
+    "genre": "Crime",
+    "published_year": 1999,
+    "price": 300,
+    "in_stock": true,
+    "pages": 354,
+    "publisher": "Berkley Books"
+}
+]
